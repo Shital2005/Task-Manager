@@ -1,4 +1,4 @@
-# MERN Task Manager
+# Task Manager
 
 A MERN application for basic tasks management.
 
